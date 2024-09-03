@@ -14,4 +14,13 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=touhidzaman007&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## Wallaby.js
+
+[![Wallaby.js](https://img.shields.io/badge/wallaby.js-powered-blue.svg?style=for-the-badge&logo=github)](https://wallabyjs.com/oss/)
+
+These repository contributors are welcome to use
+[Wallaby.js OSS License](https://wallabyjs.com/oss/) to get
+test results immediately as you type, and see the results in
+your editor right next to your code.
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
